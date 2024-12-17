@@ -89,7 +89,8 @@ kubectl get pods
 minikube service nginx-service
 ```
 
-![nginx-service.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b912a3bd-dcf9-4e79-ba58-633f57c9dfaf/6172c8a6-02cb-4262-a46a-1e3ea6f8dfdb/nginx-service.png)
+![nginx-service](https://github.com/user-attachments/assets/2a25f2c7-6c35-4d86-933f-5e0da6b22e36)
+
 
 ### **რესურსების გაწმენდა**
 
