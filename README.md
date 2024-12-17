@@ -78,7 +78,8 @@ kubectl get services
 kubectl get pods
 ```
 
-![nginx.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b912a3bd-dcf9-4e79-ba58-633f57c9dfaf/b2329d43-6445-483f-9903-149bfb8cf80e/nginx.png)
+![nginx](https://github.com/user-attachments/assets/1f358db6-6067-4ce6-ac34-59cc06d6668c)
+
 
 ### **აპლიკაციის გახსნა ბრაუზერში**
 
